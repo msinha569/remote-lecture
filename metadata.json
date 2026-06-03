@@ -1,0 +1,6 @@
+{
+  "name": "LectureRemote",
+  "description": "Seamless video playback remote control for your laptop so you can skip lectures from afar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
